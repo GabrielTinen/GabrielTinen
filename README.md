@@ -8,9 +8,10 @@
 </b> </font size="+2"> </p>
 
 <p align=center>
-Olá, me chamo Gabriel <br>
+Olá, me chamo Gabriel <br> <br>
 Atualmente estudo o curso Superior de Tecnologia em <b>DevOps</b> <br>
-Estou à procura de uma oportunidade para desenvolver uma base solida das minhas habilidades profissionais.
+Estou à procura de uma oportunidade para desenvolver uma base solida das minhas habilidades <br>
+sejam elas profissionais, as softs e/ou hards.
 </p> <br>
 
 <p align=center height=100> <font size="+2"> <b>
