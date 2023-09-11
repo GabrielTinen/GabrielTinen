@@ -1,7 +1,12 @@
-<div>
-  <a href="mailto:gabriel_tinen@hotmail.com" /> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align=center>
+  <a href="https://www.linkedin.com/in/gabriel-tinen-hidalgo" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/Gtinen" >
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+  <a href="mailto:gabriel_tinen@hotmail.com" > 
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="mailto:gabrieltinenhidalgo@gmail.com" >
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <p align=center height=100> <font size="+2"> <b>
@@ -17,7 +22,6 @@
 Olá, me chamo Gabriel <br> <br>
 Atualmente estudo o curso Superior de Tecnologia em <b>DevOps</b> <br>
 Estou à procura de uma oportunidade para desenvolver uma base solida das minhas habilidades profissionais <br>
-Meu foco principal é aprimorar cada vez mais minhas hards e softs skills.
 </p> <br>
 
 <p align=center height=100> <font size="+2"> <b>
