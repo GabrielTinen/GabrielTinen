@@ -63,5 +63,5 @@ Estou à procura de uma oportunidade para desenvolver uma base solida das minhas
 <div align=center>
     <a ref>
     <img width=51% height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielTinen&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=ocean_dark" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTinen&show_icons=true&theme=ocean_dark" /> <br>
+    <img width=% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTinen&show_icons=true&theme=ocean_dark" /> <br>
 </div> <br>
