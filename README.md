@@ -25,7 +25,6 @@
 <!-- Description -->
 <p align=center>
 Olá, me chamo Gabriel. <br> <br>
-Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minhas habilidades profissionais.
 </p>
 
 ##
