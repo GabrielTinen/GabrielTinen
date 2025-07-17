@@ -1,26 +1,37 @@
+<!-- CONTATOS -->
 <div align=center>
   <a href="https://www.linkedin.com/in/gabriel-tinen-hidalgo" >
-    <img src="https://img.shields.io/badge/LinkedIn-282a35?style=for-the-badge&logo=linkedin&logoColor=8957af" /></a>
+    <img src="https://img.shields.io/badge/LinkedIn-282a35?style=for-the-badge&logo=linkedin&logoColor=8957af" />
+  </a>
+
   <a href="https://www.reddit.com/user/Gtinen" >
-    <img src="https://img.shields.io/badge/Reddit-282a35?style=for-the-badge&logo=reddit&logoColor=8957af" /></a>
+    <img src="https://img.shields.io/badge/Reddit-282a35?style=for-the-badge&logo=reddit&logoColor=8957af" />
+  </a>
+
   <a href="mailto:gabriel_tinen@hotmail.com" > 
-    <img src="https://img.shields.io/badge/M._Outlook-282a35?style=for-the-badge&logo=microsoft-outlook&logoColor=8957af" /></a>
+    <img src="https://img.shields.io/badge/M._Outlook-282a35?style=for-the-badge&logo=microsoft-outlook&logoColor=8957af" />
+  </a>
+
   <a href="mailto:gabrieltinenhidalgo@gmail.com" >
-    <img src="https://img.shields.io/badge/Gmail-282a35?style=for-the-badge&logo=gmail&logoColor=8957af" /></a>
+    <img src="https://img.shields.io/badge/Gmail-282a35?style=for-the-badge&logo=gmail&logoColor=8957af" />
+  </a>  
 </div>
 
 ##
 
-<p align=center height=100> <font size="+3"> <b>
+<!-- SOBRE -->
+<p align=center height=100> <font size="+3"> 
+  <b>
      ABOUT ME </font size="+3"> 
-     <br> _________________________ <br />
+     <br>
+      _________________________ 
+     <br/>
   </b> </font size="+3"> 
 </p>
 
 <p align=center>
-Olá, me chamo Gabriel <br> <br>
-Formado em <b>DevOps</b> <br>
-Estou à procura de oportunidades para desenvolver uma base solida das minhas habilidades profissionais <br>
+Olá, me chamo Gabriel. <br> <br>
+Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minhas habilidades profissionais.
 </p>
 
 ##
@@ -31,31 +42,29 @@ Estou à procura de oportunidades para desenvolver uma base solida das minhas ha
 	<!-- <br> _________________________ <br /> -->
 </p>
 
-<table border= none align="center" style="border-collapse: collapse;">
-<tr>
-<td align="center" style="padding: 10px 20px; border: 1px solid #0d1117;">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot Logo" />
-  <div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">GDScript (Godot)</div>
-</td>
+<div align="center">
+	<div style="display: inline-block; text-align: center; margin: 10px;">
+		<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot Logo" />
+		<div style="color: #cfcfcf; font-weight: bold; margin-top: 5px;">GDScript (Godot)</div>
+	</div>
 
-<td style="border-left: 2px solid #555; width: 10px;"></td>
+<div style="display: inline-block; border-left: 2px solid #555; height: 60px; margin: 0 15px;"></div>
 
-<td align="center" style="padding: 10px 20px; border: 1px solid #0d1117;">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# Logo" />
-  <div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">C#</div>
-</td>
+<div style="display: inline-block; text-align: center; margin: 10px;">
+	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# Logo" />
+	<div style="color: #cfcfcf; font-weight: bold; margin-top: 5px;">C#</div>
+</div>
 
-<td align="center" style="padding: 10px 20px; border: 1px solid #0d1117;">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" />
-  <div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">C++</div>
-</td>
+<div style="display: inline-block; text-align: center; margin: 10px;">
+	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" />
+	<div style="color: #cfcfcf; font-weight: bold; margin-top: 5px;">C++</div>
+</div>
 
-<td align="center" style="padding: 10px 20px; border: 1px solid #0d1117;">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" />
-  <div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">Python</div>
-</td>
-</tr>
-</table>
+<div style="display: inline-block; text-align: center; margin: 10px;">
+	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" />
+	<div style="color: #cfcfcf; font-weight: bold; margin-top: 5px;">Python</div>
+</div>
+</div>
 
 ##
 
@@ -67,21 +76,28 @@ Estou à procura de oportunidades para desenvolver uma base solida das minhas ha
 	<!-- <br> _________________________ <br /> -->
 </p>
 
-<table border= none align="center" style="border-collapse: collapse;">
-<tr>
-<td align="center" style="padding: 10px 20px; border: 1px solid #0d1117;">
-  <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="Obsidian Logo" />
-  <div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">Obsidian</div>
-</td>
+<div align="center">
+	<!-- Obsidian -->
+	<div style="display: inline-block; text-align: center; margin: 10px;">
+		<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="Obsidian Logo" />
+		<div style="color: #cfcfcf; font-weight: bold; margin-top: 5px;">Obsidian</div>
+	</div>
 
-<td style="border-left: 2px solid #555; width: 10px;"></td>
+<!-- Separador -->
+<div style="display: inline-block; border-left: 2px solid #555; height: 60px; margin: 0 15px;"></div>
 
-<td align="center" style="padding: 10px 20px; border: 1px solid #0d1117;">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" />
-  <div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">HTML5</div>
-</td>
-</tr>
-</table>
+<!-- HTML5 -->
+<div style="display: inline-block; text-align: center; margin: 10px;">
+	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" />
+	<div style="color: #cfcfcf; font-weight: bold; margin-top: 5px;">HTML5</div>
+</div>
+
+<!-- Markdown -->
+<div style="display: inline-block; text-align: center; margin: 10px;">
+	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown Logo" />
+	<div style="color: #cfcfcf; font-weight: bold; margin-top: 5px;">Markdown</div>
+</div>
+</div>
 
 <p align=center height=100> <font size="+2"> <b>
   _____________________________________
