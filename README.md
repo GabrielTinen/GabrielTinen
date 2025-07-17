@@ -29,6 +29,7 @@
   </b> </font size="+3"> 
 </p>
 
+<!-- Description -->
 <p align=center>
 Olá, me chamo Gabriel. <br> <br>
 Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minhas habilidades profissionais.
@@ -36,30 +37,36 @@ Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minh
 
 ##
 
+<!-- Game Engines & Programming Languages -->
 <p align="center" height="100"> <font size="+3"> <b>
 		Game Engines & Programming Languages
 	</b> </font>
 	<!-- <br> _________________________ <br /> -->
 </p>
 
+<!-- Godot -->
 <div align="center">
 	<div style="display: inline-block; text-align: center; margin: 10px;">
 		<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot Logo" />
 		<div style="color: #cfcfcf; font-weight: bold; margin-top: 5px;">GDScript (Godot)</div>
 	</div>
 
+<!-- Separador -->
 <div style="display: inline-block; border-left: 2px solid #ffffff; height: 60px; margin: 0 15px;"></div>
 
+<!-- C -->
 <div style="display: inline-block; text-align: center; margin: 10px;">
 	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# Logo" />
 	<div style="color: #cfcfcf; font-weight: bold; margin-top: 5px;">C#</div>
 </div>
 
+<!-- C++ -->
 <div style="display: inline-block; text-align: center; margin: 10px;">
 	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" />
 	<div style="color: #cfcfcf; font-weight: bold; margin-top: 5px;">C++</div>
 </div>
 
+<!-- Python -->
 <div style="display: inline-block; text-align: center; margin: 10px;">
 	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" />
 	<div style="color: #cfcfcf; font-weight: bold; margin-top: 5px;">Python</div>
@@ -99,9 +106,7 @@ Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minh
 </div>
 </div>
 
-<p align=center height=100> <font size="+2"> <b>
-  _____________________________________
-</b> </font size="+2"> </p> 
+##
 
 <p align=center height=100> <font size="+2"> <b>
     STATISTICS
