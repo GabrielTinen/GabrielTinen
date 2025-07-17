@@ -37,27 +37,27 @@ Estou à procura de oportunidades para desenvolver uma base solida das minhas ha
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: nowrap;">
 
-	<div style="display: inline-block; margin: 10px; text-align: center;">
-		<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot Logo" />
-		<div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">GDScript (Godot)</div>
-	</div>
+<div style="display: inline-block; margin: 10px; text-align: center;">
+	<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot Logo" />
+	<div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">GDScript (Godot)</div>
+</div>
 
-	<div style="border-left: 2px solid #555; height: 70px; margin: 0 20px;"></div>
+<div style="border-left: 2px solid #555; height: 70px; margin: 0 20px;"></div>
 
-	<div style="display: inline-block; margin: 10px; text-align: center;">
-		<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# Logo" />
-		<div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">C#</div>
-	</div>
+<div style="display: inline-block; margin: 10px; text-align: center;">
+	<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# Logo" />
+	<div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">C#</div>
+</div>
 
-	<div style="display: inline-block; margin: 10px; text-align: center;">
-		<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" />
-		<div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">C++</div>
-	</div>
+<div style="display: inline-block; margin: 10px; text-align: center;">
+	<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" />
+	<div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">C++</div>
+</div>
 
-	<div style="display: inline-block; margin: 10px; text-align: center;">
-		<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" />
-		<div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">Python</div>
-	</div>
+<div style="display: inline-block; margin: 10px; text-align: center;">
+	<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" />
+	<div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">Python</div>
+</div>
 
 </div>
 
@@ -74,17 +74,17 @@ Estou à procura de oportunidades para desenvolver uma base solida das minhas ha
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: nowrap;">
 
-	<div style="display: inline-block; margin: 10px; text-align: center;">
-		<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="Obsidian Logo" />
-		<div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">Obsidian</div>
-	</div>
+<div style="display: inline-block; margin: 10px; text-align: center;">
+	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="Obsidian Logo" />
+	<div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">Obsidian</div>
+</div>
 
-	<div style="border-left: 2px solid #555; height: 70px; margin: 0 20px;"></div>
+<div style="border-left: 2px solid #555; height: 70px; margin: 0 20px;"></div>
 
-	<div style="display: inline-block; margin: 10px; text-align: center;">
-		<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" />
-		<div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">HTML5</div>
-	</div>
+<div style="display: inline-block; margin: 10px; text-align: center;">
+	<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" />
+	<div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">HTML5</div>
+</div>
 
 </div>
 
