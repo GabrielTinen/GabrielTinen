@@ -25,6 +25,7 @@
 <!-- Description -->
 <p align=center>
 Olá, me chamo Gabriel. <br> <br>
+Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minhas habilidades profissionais.
 </p>
 
 ##
@@ -61,7 +62,8 @@ Olá, me chamo Gabriel. <br> <br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5 Logo" />
 	&nbsp;&nbsp;&nbsp;
-	<img link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="50" alt="Markdown Logo"/>
+          
 </p>
 
 ##
