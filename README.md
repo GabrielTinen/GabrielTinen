@@ -14,7 +14,8 @@
 <p align=center height=100> <font size="+3"> <b>
      ABOUT ME </font size="+3"> 
      <br> _________________________ <br />
-</b> </font size="+2"> </p>
+  </b> </font size="+3"> 
+</p>
 
 <p align=center>
 Olá, me chamo Gabriel <br> <br>
@@ -24,10 +25,9 @@ Estou à procura de oportunidades para desenvolver uma base solida das minhas ha
 
 ##
 
-<p align="center" height="100">
-	<font size="+3"><b>
+<p align="center" height="100"> <font size="+3"> <b>
 		Game Engines & Programming Languages
-	</b></font>
+	</b> </font>
 	<!-- <br> _________________________ <br /> -->
 </p>
 
