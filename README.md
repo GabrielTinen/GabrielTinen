@@ -31,7 +31,7 @@ Estou à procura de oportunidades para desenvolver uma base solida das minhas ha
 	<!-- <br> _________________________ <br /> -->
 </p>
 
-<table border="0" align="center" style="border-collapse: collapse;">
+<table border= none align="center" style="border-collapse: collapse;">
 <tr>
 <td align="center" style="padding: 10px 20px; border: 1px solid #0d1117;">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot Logo" />
@@ -67,7 +67,7 @@ Estou à procura de oportunidades para desenvolver uma base solida das minhas ha
 	<!-- <br> _________________________ <br /> -->
 </p>
 
-<table border="0" align="center" style="border-collapse: collapse;">
+<table border= none align="center" style="border-collapse: collapse;">
 <tr>
 <td align="center" style="padding: 10px 20px; border: 1px solid #0d1117;">
   <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="Obsidian Logo" />
