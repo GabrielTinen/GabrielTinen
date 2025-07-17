@@ -10,7 +10,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>  
 </div>
 
+<p align="center">
 ##
+</p>
 
 <!-- SOBRE -->
 <p align=center height=100> <font size="+3"> 
@@ -28,7 +30,9 @@ Olá, me chamo Gabriel. <br> <br>
 Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minhas habilidades profissionais.
 </p>
 
+<p align="center">
 ##
+</p>
 
 <!-- Game Engines & Programming Languages -->
 <p align="center" height="100"> <font size="+3"> <b>
@@ -47,7 +51,9 @@ Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minh
 	<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /></a>
 </p>
 
+<p align="center">
 ##
+</p>
 
 <!-- Note-taking Tools & Markup Languages -->
 <p align="center" height="100">
@@ -66,7 +72,9 @@ Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minh
           
 </p>
 
+<p align="center">
 ##
+</p>
 
 <!-- Note-taking Tools & Markup Languages -->
 <p align="center" height="100">
@@ -79,9 +87,10 @@ Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minh
 <p align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="50" alt="JSON Logo" />
 </p>
-<p align="center">
 
+<p align="center">
 ##
+</p>
 
 <p align=center height=100> <font size="+3"> <b>
     STATISTICS
