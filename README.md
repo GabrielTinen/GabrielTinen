@@ -48,7 +48,7 @@ Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minh
 		<div style="color: #cfcfcf; font-weight: bold; margin-top: 5px;">GDScript (Godot)</div>
 	</div>
 
-<div style="display: inline-block; border-left: 2px solid #555; height: 60px; margin: 0 15px;"></div>
+<div style="display: inline-block; border-left: 2px solid #ffffff; height: 60px; margin: 0 15px;"></div>
 
 <div style="display: inline-block; text-align: center; margin: 10px;">
 	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# Logo" />
@@ -84,7 +84,7 @@ Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minh
 	</div>
 
 <!-- Separador -->
-<div style="display: inline-block; border-left: 2px solid #555; height: 60px; margin: 0 15px;"></div>
+<div style="display: inline-block; border-left: 2px solid #ffffff; height: 60px; margin: 0 15px;"></div>
 
 <!-- HTML5 -->
 <div style="display: inline-block; text-align: center; margin: 10px;">
