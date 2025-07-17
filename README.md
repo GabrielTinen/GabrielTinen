@@ -73,16 +73,19 @@ Estou à procura de oportunidades para desenvolver uma base solida das minhas ha
 	<!-- <br> _________________________ <br /> -->
 </p>
 
-<table border="0" align="center" style="border-collapse: collapse;">
+<table style="border-collapse: collapse; border: none;">
 <tr>
-<td align="center" style="padding: 0 20px;">
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" alt="Obsidian Logo" />
+<!-- Obsidian -->
+<td align="center" style="padding: 0 20px; border: none;">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Obsidian_Icon.svg" alt="Obsidian Logo" />
   <div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">Obsidian</div>
 </td>
 
-<td style="border-left: 2px solid #555; width: 10px;"></td>
+<!-- Separador vertical -->
+<td style="border-left: 2px solid #555; width: 10px; padding: 0;"></td>
 
-<td align="center" style="padding: 0 20px;">
+<!-- HTML5 -->
+<td align="center" style="padding: 0 20px; border: none;">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" />
   <div style="font-weight: bold; color: #cfcfcf; margin-top: 5px;">HTML5</div>
 </td>
