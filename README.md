@@ -12,7 +12,7 @@
 ##
 
 <p align=center height=100> <font size="+3"> <b>
-     ABOUT ME </font size="+3"> 
+     ## ABOUT ME </font size="+3"> 
      <br> _________________________ <br />
 </b> </font size="+2"> </p>
 
