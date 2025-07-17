@@ -11,12 +11,8 @@
 
 ##
 
-<p align=center height=100> <font size="+2"> <b>
-  _____________________________________
-</b> </font size="+2"> </p>
-
 <p align=center height=100> <font size="+3"> <b>
-     About Me </font size="+3"> 
+     ABOUT ME </font size="+3"> 
      <br> _________________________ <br />
 </b> </font size="+2"> </p>
 
@@ -26,9 +22,7 @@ Formado em <b>DevOps</b> <br>
 Estou à procura de oportunidades para desenvolver uma base solida das minhas habilidades profissionais <br>
 </p>
 
-<p align=center height=100> <font size="+2"> <b>
-  _____________________________________
-</b> </font size="+2"> </p> 
+##
 
 <p align="center" height="100">
 	<font size="+3"><b>
@@ -63,9 +57,7 @@ Estou à procura de oportunidades para desenvolver uma base solida das minhas ha
 </tr>
 </table>
 
-<p align=center height=100> <font size="+2"> <b>
-  _____________________________________
-</b> </font size="+2"> </p> 
+##
 
 <!-- Note-taking Tools & Markup Languages -->
 <p align="center" height="100">
@@ -96,7 +88,7 @@ Estou à procura de oportunidades para desenvolver uma base solida das minhas ha
 </b> </font size="+2"> </p> 
 
 <p align=center height=100> <font size="+2"> <b>
-    Statistics 
+    STATISTICS
 </b> </font size="+2"> </p>
 
 <div align=center>
