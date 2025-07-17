@@ -80,6 +80,8 @@ Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minh
 </p>
 <p align="center">
 
+##
+
 <p align=center height=100> <font size="+3"> <b>
     STATISTICS
     <br> </font size="+3"> 
