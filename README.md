@@ -38,13 +38,13 @@ Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minh
 </p>
 
 <p align="center">
-	<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50" /></a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" /></a>
-	&nbsp;&nbsp;&nbsp;
-	<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /></a>
-	&nbsp;&nbsp;&nbsp;
-	<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /></a>
+  <a href="https://godotengine.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.c-language.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" /></a>
 </p>
 
 ##
@@ -58,12 +58,16 @@ Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minh
 </p>
 
 <p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" width="50" alt="Obsidian Logo" />
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5 Logo" />
-	&nbsp;&nbsp;&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="50" alt="Markdown Logo"/>
-          
+  <a href="https://help.obsidian.md" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" width="50" alt="Obsidian Logo" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://html.spec.whatwg.org/" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5 Logo" />
+    &nbsp;&nbsp;&nbsp;
+	  
+  <a href="https://daringfireball.net/projects/markdown/" >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="50" alt="Markdown Logo"/>          
 </p>
 
 ##
@@ -77,9 +81,9 @@ Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minh
 </p>
 
 <p align="center">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="50" alt="JSON Logo" />
+  <a href="https://www.json.org/json-en.html" >
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="50" alt="JSON Logo" /></a>
 </p>
-
 
 ##
 
