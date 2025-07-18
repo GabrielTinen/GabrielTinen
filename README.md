@@ -63,11 +63,11 @@ Graduado em <b>Tecnologia em DevOps</b>, busco oportunidades para aprimorar minh
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://html.spec.whatwg.org/" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5 Logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5 Logo" /></a>
     &nbsp;&nbsp;&nbsp;
 	  
   <a href="https://daringfireball.net/projects/markdown/" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="50" alt="Markdown Logo"/>          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="50" alt="Markdown Logo"/></a>   
 </p>
 
 ##
